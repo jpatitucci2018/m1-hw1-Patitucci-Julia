@@ -1,2 +1,2 @@
-# m1-hw1-Patitucci-Julia
-MMC5277-Web Design Principles
+# My First Coding Assignment
+![picture alt](./Collage_3.png "Bookish aesthetic")
